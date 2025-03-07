@@ -173,7 +173,7 @@ You need to get GPG keys properly setup on every machine.  You can follow [these
 
 2. Publish documentation with `sbt ghpagesPushSite`
 
-3. Publish JAR
+3. Publish JARs
 
 Run `sbt` to open the SBT console.
 
